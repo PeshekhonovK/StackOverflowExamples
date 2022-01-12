@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SO.Examples.DynamicEFCoreSchema", "SO.Examples.DynamicEFCoreSchema\SO.Examples.DynamicEFCoreSchema.csproj", "{4EC8C046-E21E-4309-B57F-99F3EFE87704}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Automapper.Net6", "Automapper.Net6\Automapper.Net6\Automapper.Net6.csproj", "{B47B4E2B-2294-42A8-BF93-8D52C7D7525E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{4EC8C046-E21E-4309-B57F-99F3EFE87704}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4EC8C046-E21E-4309-B57F-99F3EFE87704}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4EC8C046-E21E-4309-B57F-99F3EFE87704}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B47B4E2B-2294-42A8-BF93-8D52C7D7525E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B47B4E2B-2294-42A8-BF93-8D52C7D7525E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B47B4E2B-2294-42A8-BF93-8D52C7D7525E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B47B4E2B-2294-42A8-BF93-8D52C7D7525E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
